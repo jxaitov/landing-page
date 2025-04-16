@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../css-exercises"
+		},
+		{
+			"path": "../odin-recipes"
+		},
+		{
+			"path": "../tempflex"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": null
+	}
+}
